@@ -1,5 +1,5 @@
 {
-	chapter.2687DD6461E11412.title: "플로라 도감"
+	chapter.2687DD6461E11412.title: "식물 도감"
 	chapter.3350D732969A634A.title: "잠금 해제된 아이템 상점"
 	chapter.54A0FA6688D9C18E.title: "요리 컬렉션"
 	chapter.54E0F0AC5FB1DBEC.title: "주민 이사"
@@ -178,7 +178,7 @@
 		""
 		"== 모드팩 튜토리얼 =="
 		""
-		"유키를 이사시키려면 10개의 특별한 플로라를 수집하세요."
+		"유키를 이사시키려면 10개의 특별한 식물를 수집하세요."
 	]
 	quest.1EDF709B0F6F410A.title: "유키 이사시키기"
 	quest.1FA0561DCA4884D6.title: "펭귄 핑구 초대"
@@ -195,13 +195,13 @@
 		""
 	]
 	quest.21BA88188D23BF4E.title: "차 양조"
-	quest.21CCCE0993977F7C.title: "110개의 특별한 플로라를 수집했습니다!"
+	quest.21CCCE0993977F7C.title: "110개의 특별한 식물를 수집했습니다!"
 	quest.225F1F8C7A7D87A0.title: "요리 컬렉션 완료!"
 	quest.226281A3E70EC971.title: "제스 찾기"
 	quest.2295A2D79C1D1833.title: "동물 관찰 완료!"
 	quest.22C8BB99ECF5AB13.quest_desc: ["만나서 반가워요! 저는 펭귄 핑구입니다. 저는 고향에서 음반 가게를 운영하고 있어요. 저는 Sky Penguin의 키보드 연주자이기도 합니다. 여기에서 Sky Penguin의 음악 디스크를 판매하고 있으니 편하게 구경하세요!"]
 	quest.22C8BB99ECF5AB13.title: "핑구 이사시키기"
-	quest.237FE170DCEF0E64.title: "10개의 특별한 플로라를 수집했습니다!"
+	quest.237FE170DCEF0E64.title: "10개의 특별한 식물를 수집했습니다!"
 	quest.23AAF4EDBDAF772A.title: "엘나 초대"
 	quest.240325440EAB99C5.quest_desc: [
 		"** 비버 제스 **"
@@ -222,7 +222,7 @@
 	quest.26F343DDCADA67B9.title: "목초지 꽃 완성"
 	quest.28043A18FF6A55BC.title: "평원 완료"
 	quest.28D5E795C2CE0159.title: "10개의 특별한 요리를 요리했습니다!"
-	quest.295061854693C97A.title: "35개의 특별한 플로라를 수집했습니다!"
+	quest.295061854693C97A.title: "35개의 특별한 식물를 수집했습니다!"
 	quest.2A1AEF0E0411614B.title: "랄리 초대"
 	quest.2AA29F9A4845B0C2.title: "네더라이트 낚싯대 업그레이드"
 	quest.2AC2428CF4DF2798.title: "Farm and Charm 음식 완성"
@@ -335,7 +335,7 @@
 	quest.32D9390F9B877315.quest_desc: [
 		"** 비버 제스 **"
 		""
-		"모험을 하다 보면 물고기, 광물, 플로라를 발견하고 지역 야생 동물도 관찰하게 될 것입니다! 퀘스트 북에서 덱스를 채우는 것은 Busy Beaver Inc.가 토지를 더 잘 파악하는 데 도움이 될 뿐만 아니라 마일리지 티켓 형태로 보상을 받게 됩니다! 안전하게 보관하세요. 그것들은 금과 같습니다!"
+		"모험을 하다 보면 물고기, 광물, 식물를 발견하고 지역 야생 동물도 관찰하게 될 것입니다! 퀘스트 북에서 덱스를 채우는 것은 Busy Beaver Inc.가 토지를 더 잘 파악하는 데 도움이 될 뿐만 아니라 마일리지 티켓 형태로 보상을 받게 됩니다! 안전하게 보관하세요. 그것들은 금과 같습니다!"
 		""
 		"아, 네, 마일리지 티켓을 얻을 수 있는 다른 방법도 있습니다. 저는 물수리 샘이 갓 잡은 물고기와 티켓을 교환할 것이라는 것을 알고 있습니다. 그리고 Adventurer’s Settlement 팩을 통해 초대하는 모든 새로운 마을 주민(저를 포함하여!)은 메뉴를 만든 후 잘 요리된 식사에 대해 기꺼이 티켓을 지불할 것입니다."
 		""
@@ -498,7 +498,7 @@
 	quest.415000FB5B40DE01.title: "돌 낚싯대 업그레이드 키트"
 	quest.41CFE541B5041D5F.title: "광물 박물관 완료!"
 	quest.42252542E745CC68.title: "랭글리 초대"
-	quest.422781D9E4ABFC96.title: "55개의 특별한 플로라를 수집했습니다!"
+	quest.422781D9E4ABFC96.title: "55개의 특별한 식물를 수집했습니다!"
 	quest.428E3DF7673B67C7.title: "팔란 초대"
 	quest.429B913B2B35BC9E.title: "돌 낚싯대 업그레이드"
 	quest.433EE8A9CC98B14E.title: "파멜라 찾기"
@@ -566,7 +566,7 @@
 		""
 		"- 설정을 \"아이템 매칭\"으로 설정하면 내용물과 일치하는 아이템을 자동으로 줍습니다"
 	]
-	quest.4F114B795F9ABFD0.title: "플로라 수집"
+	quest.4F114B795F9ABFD0.title: "식물 수집"
 	quest.4FA08F2A855CB462.title: "5가지 특별한 동물 관찰!"
 	quest.50343A8A3D3F7F86.title: "기타 음식 완성"
 	quest.50E6FA586B3ECC23.title: "생물군계 음식 완성"
@@ -617,7 +617,7 @@
 	]
 	quest.56AC6181113D8B4E.title: "보석 제작"
 	quest.56F458AB639E8D1E.title: "크리에이티브 저장소 디스크"
-	quest.57BE1A138D1F6B53.title: "바닐라 플로라 완료"
+	quest.57BE1A138D1F6B53.title: "바닐라 식물 완료"
 	quest.57C34897398B2464.title: "공허 완료"
 	quest.59449FD43D19FE6B.quest_desc: [
 		"케이크 반죽을 들고 케이크 제작대를 오른손 클릭하세요. 그런 다음 케이크 반죽으로 다양한 상호 작용을 할 수 있습니다."
@@ -635,7 +635,7 @@
 	quest.5A4AA7C9BA18CB2C.title: "5가지 특별한 물고기 잡기!"
 	quest.5AC743FE401681BD.title: "흑요석 상자 낚시"
 	quest.5B2F73BE722EFC7A.title: "크리에이티브 휴대용 그리드"
-	quest.5BB3A4D8C0D8386C.title: "20가지 특별한 플로라 수집!"
+	quest.5BB3A4D8C0D8386C.title: "20가지 특별한 식물 수집!"
 	quest.5BB57D9BEC8038FB.quest_desc: [
 		"** 전화벨이 울립니다 **"
 		""
@@ -663,7 +663,7 @@
 	]
 	quest.5D97E780E413EDAC.title: "집으로 돌아오기"
 	quest.5E2326EDD5B662A8.title: "크리스탈 낚싯대 업그레이드 키트"
-	quest.5E30BB54995DB642.title: "110가지 특별한 플로라 수집!"
+	quest.5E30BB54995DB642.title: "110가지 특별한 식물 수집!"
 	quest.5E40E79D5B5E737F.title: "철 낚싯대 업그레이드 키트"
 	quest.5E6968319E825653.title: "크리에이티브 컨트롤러"
 	quest.609C71580309E47D.title: "담수 완료"
@@ -696,15 +696,15 @@
 		"가구를 아주 잘 만드셨군요... 정착지에 가게를 열게 해주세요… 목공일과 대장일을 돕겠습니다."
 	]
 	quest.652E92C4C78931C0.title: "렌을 정착지에 이사시키기"
-	quest.65BA9D1B2DCE2F7E.title: "80가지 특별한 플로라를 수집했습니다!"
+	quest.65BA9D1B2DCE2F7E.title: "80가지 특별한 식물를 수집했습니다!"
 	quest.65C43C13CE6FF1F8.title: "자작나무 묘목 완성"
 	quest.65DCD492990110D3.title: "포도원 음식 완성"
-	quest.6606553B4C31D667.title: "2가지 특별한 플로라를 수집했습니다!"
+	quest.6606553B4C31D667.title: "2가지 특별한 식물를 수집했습니다!"
 	quest.662508CD3479F7E7.title: "샘 초대하기"
-	quest.666D55906F99FC33.title: "플로라 도감 완성!"
+	quest.666D55906F99FC33.title: "식물 도감 완성!"
 	quest.66DC33622164FCCC.quest_desc: ["안녕하세요~~~ 저는 여우 페니입니다! 최근에 베르니나와 엘나의 견습생으로 시작했어요. 자랑하려는 건 아니지만, 엄청 귀여운 봉제 인형을 꽤 잘 만들고 있어요! 베르니나와 엘나가 이미 당신의 정착지에서 일하기 시작했다는 소식을 들었는데, 저도 합류하고 싶어요. 언제든 편하게 들러서 제 봉제 인형을 구경해 보세요!"]
 	quest.66DC33622164FCCC.title: "페니를 정착지에 이사시키기"
-	quest.66E0ADE0CB1FB995.title: "5가지 특별한 플로라를 수집했습니다!"
+	quest.66E0ADE0CB1FB995.title: "5가지 특별한 식물를 수집했습니다!"
 	quest.689463295963E36C.title: "팔란 찾기"
 	quest.68B6D4B3A9C0410C.title: "유키 초대하기"
 	quest.694485ACECCFB855.title: "차 양조 완료"
